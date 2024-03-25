@@ -1,0 +1,23 @@
+footer{
+    display: inline-block;
+    background-color: #007987;
+    width: 100%;
+    color:  white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    .redes{
+        margin: 20px;
+        a{
+            text-decoration: none;
+            color: springgreen;
+            font-size: 50px;
+            letter-spacing: 15px;
+        }
+        
+    }
+}
+
+
+
